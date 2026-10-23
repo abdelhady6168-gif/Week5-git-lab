@@ -1,7 +1,5 @@
-&#x20; # Week 5 Git Lab
+   # Week 5 Git Lab
 
-
-
-&#x20;  This is my first Git repository for the Cloud Computing \& DevOps Engineering course.
-
-This line was added on the master branch.
+   This is my first Git repository for the Cloud Computing & DevOps Engineering course.
+   This line was added on the master branch.
+   This line was added on the feature-branch.
